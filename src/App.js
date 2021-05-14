@@ -16,7 +16,7 @@ function App() {
     <header className="App-header">
 
     <Button variant="danger" size="lg" block>
-    Stäng menyn
+    Stäng lista
   </Button>
 
 
